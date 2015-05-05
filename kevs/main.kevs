@@ -1,2 +1,8 @@
 add node0 : JavascriptNode
 add node0.myComp : ConsolePrinter
+add node0.tick: Ticker
+
+add chan: LocalChannel
+
+bind node0.myComp.input chan
+bind node0.tick.tick chan
