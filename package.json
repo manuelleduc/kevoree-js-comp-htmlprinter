@@ -1,9 +1,9 @@
 {
-  "name": "kevoree-comp-htmlprinter",
+  "name": "kevoree-comp-webprinter",
   "version": "0.0.1",
   "main": "./lib/WebPrinter.js",
   "kevoree": {
-    "package": "org.kevoree.library"
+    "package": "fr.mleduc.kevoree"
   },
   "scripts": {
     "prepublish": "grunt",
@@ -29,12 +29,12 @@
   "description": "Prints incoming message as html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kevoree/kevoree-js-comp-consoleprinter.git"
+    "url": "https://github.com/manuelleduc/kevoree-js-comp-htmlprinter.git"
   },
-  "author": "Maxime Tricoire <max.tricoire@gmail.com>",
+  "author": "Manuel Leduc <manuel.leduc@gmail.com>",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/kevoree/kevoree-js-comp-consoleprinter/issues"
+    "url": "https://github.com/manuelleduc/kevoree-js-comp-htmlprinter/issues"
   },
-  "homepage": "https://github.com/kevoree/kevoree-js-comp-consoleprinter"
+  "homepage": "https://github.com/manuelleduc/kevoree-js-comp-htmlprinter"
 }
