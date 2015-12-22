@@ -1,6 +1,6 @@
 {
   "name": "kevoree-comp-webprinter",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "./lib/WebPrinter.js",
   "kevoree": {
     "package": "fr.mleduc.kevoree"
